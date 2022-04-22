@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silentence
 - 👀 I’m interested in Robotics, games, music
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on things that inspire me
 - 📫 How to reach me ...
 
